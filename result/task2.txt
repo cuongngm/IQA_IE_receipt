@@ -1,0 +1,391 @@
+img_id,anno_texts
+mcocr_private_145120ypcjr.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 16/08/2020 - 17:57|||Tổng cộng: 288000
+mcocr_private_145120euvko.jpg,CỬA HÀNG NĂM OÁNH|||Thôn Phú Thuỵ Xã Phú Thị Huyện Gia Lâm Gia Lâm TP Hà Nội|||Ngày: 12-08-2020|||Cộng tiền hàng 445000
+mcocr_private_145120aedhd.jpg,TÊN ĐẠI LÝ VGH VINMANT VIN QNQNH|||ĐỊA CHỈ ĐẠI LÝ TỔ 8 KHU TB P.CCM TRUNG CAM PHA QUANG NINH|||NGÀY: 15/05/2020 GIỐ: 11-15:25|||TỔNG CỘNG: VND63200
+mcocr_private_145120rtovn.jpg,Xuân|||244/23a Huỳnh Văn Bánh P.11 Q.PN|||Ngày giờ vào: 05.10.2020 10.15|||Tiên Thanh Toán 117 000
+mcocr_private_145120ywkur.jpg,TÊN ĐẠI LÝ|||5156-10 7 MINH TIEN A ĐỊA CHỈ ĐẠI LÝ: CAM BINH CAM PHA QN|||NGÀY: 13/08/2020 GIO: 20:29:45|||TỔNG CỘNG: VND461288
+mcocr_private_145120bgmgl.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 14/08/2020 16:40|||TỔNG TIỀN PHẢI T.TOÁN 4.500
+mcocr_private_145120lqifx.jpg,VinCommerce|||VM+QNH 1060-1062 Trần Phú Số 1060-1062 Đường Trần Phú TP. Cẩm Phả Quảng Ninh|||Ngày: 13/08/2020 Thời gian: 20:58|||
+mcocr_private_145120qoenw.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 11/08/2020 09:08|||TỔNG TIỀN PHẢI T.TOÁN 99.000
+mcocr_private_145120nwmjf.jpg,NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||Thời gian: 09:59:51 - 15/08/2020|||22.000đ
+mcocr_private_145120cykek.jpg,|||22 Quang Trung P10 Gò Vấp||||||Tiền Thanh Toán
+mcocr_private_145120yirof.jpg,VinCommerce|||VM+QNH 590 Trần Phú Số 590 Trần Phú P.Cẩm Thuỷ TP. Cẩm Phả Quảng Ninh|||Ngày: 15/08/2020 Thời gian: 07:30|||
+mcocr_private_145120ipczv.jpg,CỬA HÀNG NĂM OÁNH|||Thôn Phú Thuỵ Xã Phú Thị Huyện Gia Lâm TP Hà Nội|||Ngày: 12-08-2020|||Cộng tiền hàng 51500
+mcocr_private_145120kmaos.jpg,VINMART TÊN ĐẠI LÝ:|||TỔ 7 KHU MINH TIẾN A. P.CA ĐỊA CHỈ|||08/08/2020 21:54:35|||TỔNG: 50.000 Đ
+mcocr_private_145120dbokx.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 10/08/2020 - 16:43|||Tổng tiền 54000
+mcocr_private_145120ipajj.jpg,VinCommerce|||VM+ QNH 112 Thanh Niên Số 112 Thanh Niên P. Cẩm Thành TP. Cẩm Phả Quảng Ninh|||Ngày bán: 11/08/2020 22:03|||TỔNG TIỀN PHẢI T.TOÁN 21.400
+mcocr_private_145120xjrbo.jpg,VinCommerce|||VM+QNH 112 Thanh Niên Số 112 Thanh Niên P. Cẩm Thành TP. Cẩm Phả Quảng Ninh|||Ngày bán: 12/08/2020 16:04|||HỒNG TIỀN PHẢI T.TOÁN 75.000
+mcocr_private_145120apnkj.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 11/08/2020 - 10:26|||Tổng tiền 56000
+mcocr_private_145120ihcbk.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày: 14/08/2020 Thời gian: 17:11|||
+mcocr_private_145120mwmhc.jpg,Saigon Co.op Co.op Food HN THE K-PARK|||Duet hop u tu kay dung Khu nha o Hi Brand P. Phu La Q. Ha Dong Tp Ha Noi|||Ngày: 19/09/2019 18:37:23|||Tong so tien thanh toan: 169190.00
+mcocr_private_145120opuod.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 12/08/2020 - 14:28|||Tổng tiền 450000
+mcocr_private_145120bdbex.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 11/08/2020 - 19:39|||Tổng tiền 229032
+mcocr_private_145120czmqe.jpg,VinCommerce|||VM+ QNH 86 Trần Phú Số 86 Đường Trần Phú P. Cẩm Tây TP Cẩm Phả T.Quảng Ninh|||Ngày bán: 11/08/2020 10:19|||TỔNG TIỀN PHẢI T.TOÁN 142.826
+mcocr_private_145120xlqul.jpg,TÊN ĐẠI LÝ: VGR VINMART 4939 VMQNH|||ĐỊA CHỈ ĐẠI LÝ: 2060-2062 TRAN PHÚ CAM PHA QUANG KINH|||12/08/2020 GIỜ: 22:03:05|||TỔNG CỘNG VND585990
+mcocr_private_145120caqdr.jpg,VinCommerce|||VM+QNH Dự án KDC lấn biển coc 6 DA khu DCLB cọc 8 P.Cẩm Son DA khu DCLB cọc 6 P.Cẩm Sơn TP. Cẩm Phả T.Quảng Ninh|||Ngày bán: 14/08/2020 20:45|||TỔNG TIỀN PHẢI T.TOÁN 103.872
+mcocr_private_145120zmrbk.jpg,Laha Cafe JUST GOOD COFFEE|||857 Nguyễn Kiêm P3 Q.Gò Vấp|||Ngày: 09.10.2C20 Giờ vào: 18.31|||Tổng cộng: 19 000
+mcocr_private_145120nbtnw.jpg,THE COFFEE HQUSE|||403 Phan Huy Ích P.14 Q.Gò Vấp|||Thời gian: 01.10.2020 08.59|||Thanh Toán: 58 000
+mcocr_private_145120qgzmk.jpg,SIEU THI BACH HOA TONG HOP|||Số 5 Cẩm Tây - Cẩm Phả - QN||||||Tổng cộng (đã gồm VAT) 104000
+mcocr_private_145120cksbv.jpg,NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||Thời gian: 07 44:54 - 11/08/2020|||Tổng số thanh toán 40.000đ
+mcocr_private_145120dwtci.jpg,VinCommerce|||VM+ QNH 590 Trần Phú Số 690 Trần Phú P.Cẩm Thuỷ TP. Cẩm Phả Quảng Ninh|||Ngày bán: 13/08/2020 21:35|||TỔNG TIỀN PHẢI T.TOÁN 10.000
+mcocr_private_145120hncxt.jpg,NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú - Cẩm Phả|||Thời gian: 09:45:57 - 13/08/2020|||Tổng số thanh toán 93.000đ
+mcocr_private_145120cbske.jpg,VinCommerce|||VM+ QNH Tổ 7 khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 13/08/2020 17:31|||TỔNG TIỀN PHẢI T.TOÁN 21.542
+mcocr_private_145120twstz.jpg,VINMART TÊN ĐẠI LÝ:|||TỔ 7 KHU MINH TIÊN A. P.CA ĐỊA CHỈ: 09/08/2020 12:19:59|||THỜI GIAN|||TẠI QUẦY 430:000 Đ 50
+mcocr_private_145120yaqdo.jpg,VinCommerce|||P. Mà Đình TQN Hàm Từ Liêm HN|||Ngày bán: 18/08/2020 17:50|||TỔNG TIỀN PHẢI T.TOÁN 740.265
+mcocr_private_145120jihqh.jpg,CHẾ BU TI||||||Ngày: 0. 13/2020 (20:11)|||
+mcocr_private_145120rykrc.jpg,VinCommerce|||VM QNH THỊ TRÁNH PHẢ Số Đ6 Chong Trần Phả P.Cẩm Thị TP Cẩm Phả T Quảng Ninh|||Ngày bán: 08/08/2020 21:02|||TỔNG TIỀN PHẢI T.TOÁN 177.700
+mcocr_private_145120pbtzc.jpg,VinCommerce|||VM+ QNH Số 463 Tổ 66 Khu Diêm Thủy Số 483 Tổ 8 Khu Diêm Thủy P. Cẩm Đông TP. Cẩm Phả|||Ngày bán: 15/08/2020 07:22|||TỔNG TIỀN PHẢI T.TOÁN 40.900
+mcocr_private_145120fhsok.jpg,VinCommerce|||VM+ QNH 86 Trần Phú Số 86 Đường Trần Phú P. Cẩm Tây TP Cẩm Phả T.Quảng Ninh|||Ngày: 09/08/2020 Thời gian: 16:35|||
+mcocr_private_145120tdhhr.jpg,PHỐ MỎ|||Tổ 7 khu Tân Lập 4 - P.Cẩm Thủy Tp. Cẩm Phả - Quảng Ninh|||13/08/2020 - 22:14|||Tổng cộng: 12000
+mcocr_private_145120qlhnj.jpg,Chefs BBQ 1||||||Ngày: 19/12/2019|||
+mcocr_private_145120osdez.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 13/08/2020 - 20:28|||Tổng cộng: 356000
+mcocr_private_145120rgoiu.jpg,Guitar Cafe|||28 Phan Cha Trinh Hiệp Phú Quận 9 Hồ|||Ngày lập: 02/10/2020|||Thành tiền: 85000
+mcocr_private_145120schnz.jpg,Saigon Co.op Sap Faigon Co.op Co.op Food HN THE K-PARK|||P. Phu L. Q. Ha Dong Tp Ha Noi|||Ngày: 17/09/2019 11:35:49|||Tong so tien thanh toan 23000.00
+mcocr_private_145120ycjmc.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P.Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 09/08/2020 18:11|||TỔNG TIỀN PHẢI T.TOÁN -10.800
+mcocr_private_145120rwtpw.jpg,CỬA HÀNG NĂM OÁNH|||Thôn Phú Thuỵ Xã Phú Thị Huyện Gia Lâm TP Hà Nội|||Ngày: 12-08-2020|||Cộng tiền hàng 42000
+mcocr_private_145120irora.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 15/08/2020 21:27|||Tổng cộng : 27000
+mcocr_private_145120cwwpk.jpg,NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||Thời gian: 18:33:01 - 14/08/2020|||Tổng số thanh toán 97.000đ
+mcocr_private_145120pjejw.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 14/08/2020 10:48|||TỔNG TIỀN PHẢI T.TOÁN 116.500
+mcocr_private_145120ljmmd.jpg,NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||Thời gian: 21:34:59 - 14/08/2020|||Tổng số thanh toán 25.000đ
+mcocr_private_145120pxmgi.jpg,VinCommerce|||VM+ 139 Chiến Thắng Số 139 đường Chiến Tháng P Tân Triều H Thanh Trì Hà Nội|||Ngày bán: 13/08/2020 08:31|||TỔNG TIỀN PHẢI T.TOÁN 192.800
+mcocr_private_145120yvjhy.jpg,TÊN ĐẠI LÝ|||ĐỊA CHỈ ĐẠI LÝ|||NGÀY: 20/05/2020 GIỐ: 14:29:47|||TỔNG CỘNG: UND455.382
+mcocr_private_145120dyknb.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 09/08/2020 - 17:24|||Tổng cộng: Tổng tiền
+mcocr_private_145120vxrkb.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 09/08/2020 18:39|||TỔNG TIỀN PHẢI T.TOÁN 66.300
+mcocr_private_145120casxx.jpg,ƯU ĐÀM CHAY|||34 Hàng Bài - Hà Nội|||Ngày 14/08/2020|||
+mcocr_private_145120dwgtk.jpg,VinCommerce|||VM+QNH 112 Thành Niên Số 112 Thanh Niên P. Cẩm Thành TP. Cẩm Phả Quảng Ninh|||Ngày bán: 10/08/2020 10:10|||TỔNG TIỀN PHẢI T.TOÁN 174.850
+mcocr_private_145120fuksi.jpg,Saigon Co.op Co.op Food HN THE K-PARK|||tai Khu do thi moi Van Phu Phu La 8. Ha Dong Tp Ha Noi|||Ngày: 23/09/2019|||Tong so tien thanh toan:
+mcocr_private_145120pfzbm.jpg,VinCommerce|||VM+ QNH Dự án quỹ đất đường sắt DA QĐ dọc tuyến ĐS Tổ 3 Khu 2 P.Cẩm Sơn TP. Cẩm Phả T.QN|||Ngày bán: 15/08/2020 11:44|||TỔNG TIỀN PHẢI T.TOÁN 113.896
+mcocr_private_145120zcmaj.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày : 15/08/2020 08:46|||Tổng cộng: 218000
+mcocr_private_145120xjofx.jpg,Saigon Co.op Co.op Food HN THE K-PARK|||ket hop dich vu tren o dat H-CT2 thuoc tai Khu do thi moi Van Phu P. Phu La Q. Ha Dong Tp Ha Noi|||Ngày: 19/09/2019 17:58:19|||Tong so tien thanh toan: 6400.00
+mcocr_private_145120rtacs.jpg,Saigon Co.op TP. CHI THO KH Co.op Food HN THE K-PARK|||P. Phu La Q. Ha Dong Tp Ha Noi|||Ngày: 19/09/2019 18:16:44|||Tong so tien thanh toan: 59190.00
+mcocr_private_145120etnlw.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 16/08/2020 08:44|||Tổng cộng 257000
+mcocr_private_145120cgsjj.jpg,Phúc Anh Minimart|||Cổ Bi - Gia lâm - Hà Nội||||||Khách phải trả 327000
+mcocr_private_145120vcrvo.jpg,SIEU THI BACH HOA TONG HOP|||Số 5 Cẩm Tây - Cẩm Phả - QN|||Ngày : 09/08/2020 - 15:|||Tổng cộng (đã gồm VAT) 30000
+mcocr_private_145120gcfei.jpg,VinCommerce|||VM+ QNH TỔ 7 KHU THINH TIẾN A Tổ 7 Khu Hinh Tiến A P.Cẩm Bình TP Cẩm Phả QNH|||Ngày bán: 13/08/2020 11:20|||TỔNG TIỀN PHẢI T.TOÁN 146.400
+mcocr_private_145120ndgdc.jpg,VinCommerce|||Số 32 ngõ Láng Trung P. Láng Hạ Q. Đông Đa Hà Nội|||Ngày bán: 22/07/2020 20:43|||TỔNG TIỀN PHẢI T.TOÁN
+mcocr_private_145120mnfhj.jpg,SCTC CÔ THỎ 104 TRẦN PHÚ - CẨM PHẢ|||104 Trần Phú phường Cẩm Tây - Thành phố Cẩm Phả - Quảng Ninh|||Ngày: 09/08/20.00 (08:09 CH - 08:09 CH) Tổng thanh toán|||
+mcocr_private_145120imnbf.jpg,CỬA HÀNG NĂM OÁNH|||Thôn Phú Thuỵ Xã Phú Thị Huyện Gia Lâm TP Hà Nội|||Ngày: 12-08-2020|||Cộng tiền hàng 72000
+mcocr_private_145120xqamb.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 10/08/2020 - 18:26|||Tổng tiền 238008
+mcocr_private_145120jlnto.jpg,||||||NGÀY HỆ THỐNG: 13/08/2020 22:12|||Tổng Tiền Tổng thanh toán 22.491.113 22.423.113
+mcocr_private_145120kfxtr.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 13/08/2020 - 10:34|||Tổng tiền 270016
+mcocr_private_145120znpmt.jpg,NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||Thời gian: 08:48:18 - 15/08/2020|||Tổng số thanh toán 11.000đ
+mcocr_private_145120rfgjj.jpg,VinCommerce|||VM+QNH 112 Thanh Niên Số 112 Thanh Niên P. Cẩm Thành TP. Cẩm Phả Quảng Ninh|||Ngày bán: 15/08/2020 11:17|||TỔNG TIỀN PHẢI T.TOÁN 43.800
+mcocr_private_145120ixnws.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 13/08/2020 - 17:30|||Tổng cộng: 344000
+mcocr_private_145120efpse.jpg,VGR VINMART 4987 VMQNH TÊN ĐẠI LÝ:|||ĐỊA CHỈ ĐẠI LÝ: TỔ B KHU 3B P. CẨM TRUNG CAM PHA QUANG NINH|||NGÀY: 30/04/2020 GIỐ: 10:20:49|||TỔNG CỘNG: VND341.100
+mcocr_private_145120azonx.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 14/08/2020 15:48|||TỔNG TIỀN PHẢI T.TOÁN 104.800
+mcocr_private_145120dimiw.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày : 12/08/2020 Thời gian: 20:52|||
+mcocr_private_145120gpiwi.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 10/08/2020 - 17:20|||Tổng cộng: 88000
+mcocr_private_145120ebzbl.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 09/08/2020 - 21:02|||Tổng tiền: 26000
+mcocr_private_145120yzfoc.jpg,Saigon Co.op Co.op Food HN THE K-PARK|||tai Khu do thi moi Van Phu P. Phu La Q. Ha Dong Tp Ha Noi|||Ngày: 20/09/2019 13:14:26|||Tong so tien thanh toan: 15400.00
+mcocr_private_145120elnjb.jpg,VGR VINMART 4987 VMQNH TEN ĐẠI LÝ|||TO 8 KHU 3B P CẨM TRUNG ĐỊA CHỈ ĐẠI LÝ: CAM PHA QUANG NINH|||NGÀY: 20/05/2020 GIỐ: 20:19:06|||TỔNG CỘNG: VND 171500
+mcocr_private_145120xqxio.jpg,THỨC-COFFEE|||22 Quang Trung P10 Gò Vấp|||23.03.2019 Giờ vào:|||Tiền Thanh Toán 35 000
+mcocr_private_145120hfwms.jpg,VinCommerce|||VM+ QNH Tổ 7 khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 13/08/2020 18:22|||TỔNG TIỀN PHẢI T.TOÁN 22.510
+mcocr_private_145120sqevm.jpg,VinCommerce|||VM+ QNH 112 Thanh Niên Số 112 Thanh Niên P. Cẩm Thành TP. Cẩm Phả Quảng Ninh|||Ngày bán: 11/08/2020 17:56|||TỔNG TIỀN PHẢI T.TOÁN 30.000
+mcocr_private_145120clklv.jpg,|||Tiết Kiệm Thời Gian Tận Hường Cuộc Sối||||||
+mcocr_private_145120mdxbf.jpg,VinCommerce|||VM+ QNH 112 Thanh Niên Số 112 Thanh Niên P. Cẩm Thành TP. Cẩm Phả Quảng Ninh|||Ngày bán: 12/08/2020 11:40|||TỔNG TIỀN PHẢI T.TOÁN 29.700
+mcocr_private_145120pyvtt.jpg,|||TRUNG T. 2 Tổ 8788 MAI AGDN - HÀ DONG|||21:32 15/08/2020|||SỐ LƯỢNG MẶT HÀNG: 126.000
+mcocr_private_145120mfwwi.jpg,VINMART TÊN ĐẠI LÝ|||DỰ ÁN KHU DÂN CƯ LẤN BIỂN|||NGÀY 14/08/2020 19:05:19|||TỔNG: 50.000 Đ
+mcocr_private_145120wzxfx.jpg,VinCommerce|||VM+ QNH 86 Trần Phú Số 86 Đường Trần Phú P. Cẩm Tây TP Cẩm Phả T.Quảng Ninh|||Ngày bán: 09/08/2020 16:07|||TỔNG TIỀN PHẢI T.TOÁN 122.000
+mcocr_private_145120gdukg.jpg,BIG C DI AN Tang 2 tem khi mua sam tu 200.000|||P.Dong Hoa TX Di An Tinh Binh Duong Von tong suu tap du 10 tem de minh Toai Dao KitchenAid Vover||||||TONG CONG - 208.224
+mcocr_private_145120kqech.jpg,VinCommerce|||VM+ QNH 86 Trần Phú Số 86 Đường Trần Phú P. Cẩm Tây TP Cẩm Phả T.Quảng Ninh|||Ngày bán: 11/08/2020 09:26|||TỔNG TIỀN PHẢI T.TOÁN 42.600
+mcocr_private_145120rvshv.jpg,PHÓ MỎ|||Tổ 7 khu Tân Lập 4 - P.Cẩm Thủy Tp.Cẩm Phả - Quảng Ninh|||11/08/2020 - 16:25|||Tổng cộng: 160000
+mcocr_private_145120bxrwi.jpg,PHIEU TINH TIEN|||292 Ba Trieu Hai Ba Trung Ha N|||15 Aug 20 18:56:01|||
+mcocr_private_145120dzqzm.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 09/08/2020 - 19:46|||Tổng cộng: 64000
+mcocr_private_145120sgeqw.jpg,PHỐ MỎ|||Tổ 7 khu Tân Lập 4 - P.Cẩm Thủy Tp. Cẩm Phả - Quảng Ninh|||13/08/2020 - 22:07|||Tổng cộng: 20000
+mcocr_private_145120ixchh.jpg,NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||Thời gian: 10:12:34 - 15/08/2020|||Tổng số thanh toán 20.000đ
+mcocr_private_145120azxzl.jpg,NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||Thời gian: 10:43:17 - 15/08/2020|||Tổng số thanh toán 97.000đ
+mcocr_private_145120kshcd.jpg,PHỐ MỎ|||Tổ 7 khu Tân Lập 4 - P.Cẩm Thủy Tp. Cẩm Phả - Quảng Ninh|||13/08/2020 - 20:52|||Tổng cộng: 24000
+mcocr_private_145120dxuqv.jpg,TÊN ĐẠI LÝ: 5156 VINMART|||ĐỊA CHỈ ĐẠI LÝ CAM BINH CAM PHA QN|||15/08/2020 GIỜ: 06:50:47|||TỔNG CỘNG: UND7200
+mcocr_private_145120dmcly.jpg,NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú - Cẩm Phả|||Thời gian: 08:30:11 - 15/08/2020|||Tổng số thanh toán 6.000đ
+mcocr_private_145120xtlae.jpg,NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||Thời gian: 08:05:47 - 14/08/2020|||Tổng số thanh toán 20.000đ
+mcocr_private_145120drkwk.jpg,TÊN ĐẠI LÝ|||TỔ 7 KHI MINH TIẾM A.P.CA||||||TỔNG: 50.000 Đ
+mcocr_private_145120opnsn.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 14/08/2020 18:45|||TỔNG TIỀN PHẢI T.TOÁN 44.900
+mcocr_private_145120gryhs.jpg,VinCommerce|||VM+ QNH Dự án KDC lấn biển cọc 6 DA khu DCLB cọc 6 P.Cẩm Sơn TP. Cẩm Phả T.Quảng Ninh|||Ngày bán: 12/08/2020 14:07|||TỔNG TIỀN PHẢI T.TOÁN 20.000
+mcocr_private_145120wnsla.jpg,SCTC CÔ THỎ 104 TRẦN PHÚ - CẨM|||Trần Phú - phường Cả 1 15 Thành phố Cẩm Phả - Quảng tinh|||Ngày: 08/08/2020 (07:24 CH - 07:24 CH)|||Tổng thanh toán 30.000đ
+mcocr_private_145120bgndj.jpg,TÊN ĐẠI LY|||ĐỊA CHỈ ĐẠI|||NGÀY: GIO: 17:08:22|||TỔNG CỘNG: VND 16.720
+mcocr_private_145120hsylc.jpg,VinCommerce|||VM+ QNH Tổ 8 Khu 38 Cẩm Trung Tổ Thà Thành Tổ Cẩm Trung Tổ 8 Khu 3B P. Cẩm Trung TP. Cẩm Phả T.Quảng Ninh|||Ngày bán: 13/08/2020 11:28|||TỔNG TIỀN PHẢI T.TOÁN 113.400
+mcocr_private_145120qopqu.jpg,Saigon Co.op Co.op Food HN THE K-PARK|||P. Phu La Q. Ha Dong Tp Ha Noi|||Ngày: 17/09/2019 11:40:34|||Tong so tien thanh toan: 30912.00
+mcocr_private_145120fyhqk.jpg,NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||Thời gian: 19:06:35 - 14/08/2020|||Tổng số thanh toán 158.000đ
+mcocr_private_145120jvfzz.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 10/08/2020 - 18:17|||Tổng tiền 236000
+mcocr_private_145120tlksx.jpg,NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||Thời gian: 09:39:15 - 11/08/2020|||Tổng số thanh toán 87.500đ
+mcocr_private_145120bsynb.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 13/08/2020 12:32|||TỔNG TIỀN PHẢI T.TOÁN 23.500
+mcocr_private_145120podbv.jpg,NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú - Cẩm Phả|||Thời gian: 17:54:19 - 14/08/2020|||Tổng số thanh toán 90.000đ
+mcocr_private_145120pgiom.jpg,Phúc Anh Minimart|||248 Cổ Bị - Gia Lâm - Hà Nội|||Ngày: 14-08-2020|||Khách phải trả 224000
+mcocr_private_145120wwctd.jpg,NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||Thời gian: 10:04:18 - 13/08/2020|||Tổng số thanh toán 40.000đ
+mcocr_private_145120slrqr.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 15/08/2020 - 18:42|||Tổng tiền 169000
+mcocr_private_145120rlash.jpg,CỬA HÀNG NĂM OÁNH|||Thôn Phú Thuỵ Xã Phú Thị Huyện Gia Lâm TP Hà Nội|||Ngày: 11-08-2020|||Cộng tiền hàng 105000
+mcocr_private_145120jsfef.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 09/08/2020 - 18:40|||Tổng cộng: 64500
+mcocr_private_145120yujdk.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày : 16/08/2020 09:38|||Tổng tiền 222000
+mcocr_private_145120dwtyw.jpg,NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú - Cẩm Phả|||Thời gian: 10:02.51 - 13/08/2020|||Tổng số thanh toán 90.000đ
+mcocr_private_145120sosih.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 09/08/2020 - 17:35|||Tổng tiền 248016
+mcocr_private_145120qrboq.jpg,|||KM 10 - Nguyen Trai - Ha Dong||||||156200.00
+mcocr_private_145120vcpfc.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 15/08/2020 10:47|||TỔNG TIỀN PHẢI T.TOÁN 16.000
+mcocr_private_145120pbvrk.jpg,||||||Ngày: 10/00/2020 (21:30)|||
+mcocr_private_145120ttjrp.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 17/08/2020 - 14:42|||Tổng tiền 273000
+mcocr_private_145120etjwj.jpg,TÊN ĐẠI LÝ:|||TỔ 7 KHU MINI TIẾN A. P.CA|||13/08/2020 12:10:39|||TỔNG: 200.000 Đ
+mcocr_private_145120smgnp.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 16/08/2020 - 15:57|||Tổng tiền 123000
+mcocr_private_145120jhbvb.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 14/08/2020 21:42|||TỔNG TIỀN PHẢI T.TOÁN 210.000
+mcocr_private_145120cjdfp.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 15/08/2020 09:17|||TỔNG TIỀN PHẢI T.TOÁN 48.900
+mcocr_private_145120gxzhn.jpg,Saigon Co.op Co.op Food HN GREEN STARS|||Toa 2185 CC Green Stars 34 Pham Van Dong P. Co Nhue Q. Bac Tu Liem Tp. Ha Noi||||||Tong so tien thanh toan
+mcocr_private_145120nyytp.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 13/08/2020 17:53|||
+mcocr_private_145120okqnl.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm||||||151000
+mcocr_private_145120qxnqk.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 14/08/2020 11:54|||TỔNG TIỀN PHẢI T.TOÁN 8.800
+mcocr_private_145120fzkbv.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm||||||
+mcocr_private_145120ormas.jpg,VINMART TÊN ĐẠI LÝ:|||TỔ 7 KHU MINH TIÊN A.P.CA|||THỜI GIAN 10/08/2020 12:55:07|||TẠI QUẦY 50.000 Đ TO
+mcocr_private_145120nwttp.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày: 09/08/2020 Thời gian: 14:33|||
+mcocr_private_145120hnuff.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm||||||Tổng tiền 481000
+mcocr_private_145120xshwc.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 15/08/2020 - 17:04|||Tổng tiền 28000
+mcocr_private_145120eghoa.jpg,CỬA HÀNG NĂM OÁNH|||Thôn Phú Thụy Xã Phú Thị Huyện Gia Lâm TP Hà Nội|||Ngày: 11-08-2020|||Cộng tiền hàng 354000
+mcocr_private_145120eiyjs.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 13/08/2020 - 15:56|||Tổng tiền 140500
+mcocr_private_145120ezfnf.jpg,TÊN ĐẠI LÝ: VINMART|||ĐỊA CHỈ: TỔ 7 KHU MINH TIẾN A. P.CA|||THỜI GIAN 10/08/2020 22:11:56|||TẠI QUẦY 654.985 Đ .99
+mcocr_private_145120aahvv.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 13/08/2020 - 17:52|||Tổng tiền 146010
+mcocr_private_145120cmjrk.jpg,SIEU THI BACH HOA TONG HOP|||Số 5 Cẩm Tây - Cẩm Phả - QN|||Ngày: 09/08/2020 - 17:|||Tổng cộng (đã gồm VAT) 5.000
+mcocr_private_145120xajdk.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 16/08/2020 - 16:19|||Tổng cộng 108000
+mcocr_private_145120opctc.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày : 12/08/2020 - 16:15|||Tổng tiền 247000
+mcocr_private_145120bgplh.jpg,|||||||||8.122.545
+mcocr_private_145120qlhmj.jpg,CUK CUK BUFFET BBQ & HOT POT|||Địa chỉ: Tâng 3 - Tòa nhà Vinh Centre - TP.Vinh|||Ngày:|||Tổng cộng: 1144000
+mcocr_private_145120amcnb.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày: 10/08/2020 Thời gian: 10:09|||
+mcocr_private_145120gbcop.jpg,NHÀ SÁCH BÍCH HÀ|||ĐT: 0243 8833172||||||
+mcocr_private_145120stjiz.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 13/08/2020 - 08:47|||Tổng cộng: 92000
+mcocr_private_145120adyuf.jpg,VỀN Vũ|||Cẩm Phả Quảng Ninh|||Ngày: 25/07/2020 16:32.52|||Tổng tiền (VND) 110000
+mcocr_private_145120nvize.jpg,Xuân|||244/23a Huỳnh Văn Bánh P.11 Q.PN|||Ngày giờ vào: 05.10.2020 18.33|||Tiên Thanh goán 378800
+mcocr_private_145120jrznp.jpg,VinCommerce|||Số 354-356 Mỹ Đình P Mỹ Đình 1 Q. Nam Từ Liêm Hà Nội|||Ngày bán: 13/01/2020 : 8640|||205.500
+mcocr_private_145120ilwww.jpg,VinCommerce|||VM+QNH Dự án KDC lấn biển cọc 6 DA khu DCLB cọc 6 P.Cẩm Sơn TP. Cẩm Phả T.Quảng Ninh|||Ngày bán: 12/08/2020 18:22|||TỔNG TIỀN PHẢI T.TOÁN 17.500
+mcocr_private_145120mhmmr.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 09/08/2020 - 09:17|||Tổng cộng 112000 112000
+mcocr_private_145120licwr.jpg,VinCommerce|||VM+ QNH 1060-1062 Trần Phú Số 1060-1062 Đường Trần Phú TP. Cẩm Phả Quảng Ninh|||Ngày bán: 12/08/2020 21:49|||TỔNG TIỀN PHẢI T.TOÁN 19.500
+mcocr_private_145120aorof.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Pha QNH|||Ngày bán: 15/08/2020 08:00|||TỔNG TIỀN PHẢI T.TOÁN 29.000
+mcocr_private_145120jekcw.jpg,CỬA HÀNG NĂM OÁNH|||Thôn Phú Thuỵ Xã Phú Thị Huyện Gia Lâm TP Hà Nội|||Ngày: 12-08-2020|||Cộng tiền hàng 182000
+mcocr_private_145120rnpak.jpg,VinCommerce|||VM+QNH Dự án KDC lấn biển cọc 6 DA khu DCLB cọc 8 P.Cẩm Sơn TP. Cẩm Phả T.Quảng Ninh|||Ngày bán: 12/08/2020 11:02|||TỔNG TIỀN PHẢI T.TOÁN 115.132
+mcocr_private_145120hmavz.jpg,Saigon Co.op Co.op Food HN THE K-PARK|||ket hop dich vu tren o dat H-CT2 thuoc Tu an Dau tu xay dung Khu nha o Hi Brang tai Khu do thi moi Van Phu P. Phu La Q. Ha Dong Tp Ha Noi|||Ngày: 17/09/2019 11:40:34|||Tong so tien thanh toan: 30912.00
+mcocr_private_145120uspmc.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 13/08/2020 - 10:26|||Tổng cộng: 25000
+mcocr_private_145120nlxbq.jpg,VinCommerce|||VM+QNH Dự án quỹ đất đường sắt DA QĐ dọc tuyến ĐS Tổ 3 Khu 2 P. Cẩm Sơn TP. Cẩm Phả T.QN|||Ngày bán: 15/08/2020 11:01|||TỔNG TIỀN PHẢI T.TOÁN 12.000
+mcocr_private_145120avxlw.jpg,||||||NHÂN VIÊN|||TỔNG CỘNG 39.000
+mcocr_private_145120qbknh.jpg,VinCommerce|||VM+QNH Tổ 7 khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 12/08/2020 20:46|||TỔNG TIỀN PHẢI T.TOÁN 10.000
+mcocr_private_145120efkkx.jpg,Giảm đã|||244/23a Huỳnh Văn Bánh P.11 Q.PN|||Ngày giờ ra: Ngày giờ vào: 04.10.2020 10.33|||Tiên Thanh Toán 240 000
+mcocr_private_145120xxxey.jpg,NHÀ SÁCH GD-TC CÂN PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||Ngi gian . 6:11:45 - 31/07/2020|||Tổng số thanh toán 20.000đ
+mcocr_private_145120rumkt.jpg,VinCommerce|||VM+ QNH Tổ 7 khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP.Cẩm Phả QNH|||Ngày bán: 12/08/2020 21:19|||TỔNG TIỀN PHẢI T.TOÁN 47.900
+mcocr_private_145120dvojm.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 12/08/2020 - 13:14|||Tổng cộng : 13000
+mcocr_private_145120ipgzm.jpg,TÊN ĐẠI LÝ|||ĐỊA CHỈ ĐẠI LÝ 5156 TỔ 7 MINH TIẾN A CAM BINH CAM PHA QN|||NGÀY: 14/08/2020 17:29:33|||TỔNG CỘNG: VND50000
+mcocr_private_145120fevhe.jpg,VGH VINMART 49687 VMQNH TÊN ĐẠI LÝ|||ĐỊA CHỈ ĐẠI LÝ TO 8 KHU 3B P.CAM TRUNG CAM PHA QUANG NINH|||13/08/2020 19:42:34|||TỔNG CỘNG: VND229869
+mcocr_private_145120bnzpf.jpg,VinCommerce|||VM+QNH 10604062 Trần Phú Số 1060-1062 Đường Trần Phú TP. Cẩm Phả Quảng Ninh|||Ngày bán: 13/08/2020 18:19|||TỔNG TIỀN PHẢI T.TOÁN 101.300
+mcocr_private_145120huazo.jpg,NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú - Cẩm Phả|||Thời gian: 10:43 17 - 15/08/2020|||Tổng số thanh toán 97.000đ
+mcocr_private_145120wmfat.jpg,VinCommerce|||VM+ QNH 86 Trần Phú Số 86 Đường Trần Phú P. Cẩm Tây TP Cẩm Phả T.Quảng Ninh|||Ngày bán: 09/08/2020 20:12|||TỔNG TIỀN PHẢI T.TOÁN 63.000
+mcocr_private_145120hfyit.jpg,SCTC CÔ THỎ 104 TRẦN PHÚ - CẨM PHẢ|||104 Trần Phú phường Cẩm Tây Thành phố Cẩm Phả Quảng Ninh|||Ngày: 09/08/2020 (07.26 CH - 07:26 CH)|||Tổng thanh toán 60.000đ
+mcocr_private_145120xjsdu.jpg,||||||NGÀY HỆ THỐNG: 14/08/2020 22:13|||16.850.018
+mcocr_private_145120moljt.jpg,Saigon Co.op Co.op Food HN THE K-PARK|||P. Phu La Q. Ha Dong Tp Ha Noi|||Ngày: 19/09/2019 18:37:23|||Tong so tien thanh toan: 169190.00
+mcocr_private_145120pyezf.jpg,||||||LEE06EZ 770|||
+mcocr_private_145120ksdpo.jpg,Saigon Co.op|||Co.op Food HN THE K-PARK Thu tu xay dung Khu nha o Hi Bra tai Khu do thi moi Van Phu Phu La B. Ha Dong Tp Ha Non|||Ngày: 19/09/2019 18:17:43|||Tong so tien thanh toan:
+mcocr_private_145120kdutu.jpg,VinCommerce|||VM+QNH Số 463 Tổ 66 Khu Diêm Thủy Số 483 Tổ 86 Khu Diêm Thuỷ P. Cẩm Đông TP. Cẩm Phả|||Ngày bán: 15/08/2020 08:59|||TỔNG TIỀN PHẢI T.TOÁN 105.378
+mcocr_private_145120qdoha.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm||||||Tổng cộng: 235000
+mcocr_private_145120kyged.jpg,THE COFFEE HQUSE|||403 Phan Huy Ích P.14 Q.Gò Vấp|||Thời gian: 30.09.2020 08.10|||Thanh Toán 78 000
+mcocr_private_145120tnzoy.jpg,VinCommerce|||VM+ QNH 86 Trần Phú Số 86 Đường Trần Phú P. Cẩm Tây TP Cẩm Phả T.Quảng Ninh|||Ngày bán: 11/08/2020 11:00|||TỔNG TIỀN PHẢI T.TOÁN 11.960
+mcocr_private_145120fxgmu.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 10/08/2020 - 17:22|||Tổng cộng: 23.000
+mcocr_private_145120pzxut.jpg,NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||Thời gian: 20:06:56 - 14/08/2020|||Tổng số thanh toán 175.000đ
+mcocr_private_145120gsoxn.jpg,VinCommerce|||VM+QNH 10604062 Trần Phú Số 1060-1062 Đường Trần Phú TP. Cẩm Phả Quảng Ninh|||Ngày bán: 15/08/2020 11:16|||TỔNG TIỀN PHẢI T.TOÁN 150.600
+mcocr_private_145120ipola.jpg,PHỐ MỎ|||Tổ 7 khu Tân Lập 4 - P.Cẩm Thủy Tp Cẩm Phả - Quảng Ninh|||13/08/2020 - 20:36|||Tổng cộng: 30000
+mcocr_private_145120ywovu.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 14/08/2020 18:39|||TỔNG TIỀN PHẢI T.TOÁN 240.000
+mcocr_private_145120nxhum.jpg,BIG C LONG BIEN|||Ngay Du S. Cau Giay Ha Nii||||||TONG CONG 33.800 
+mcocr_private_145120bgxue.jpg,VinCommerce|||VM+ QNH Số 463 Tổ 66 Khu Diêm Thủy Số 483 Tổ 8 Khu Diêm Thuỷ P. Cẩm Đông TP. Cẩm Phả|||Ngày bán: 15/08/2020 06:07|||TỔNG TIỀN PHẢI T.TOÁN 8.800
+mcocr_private_145120wfzeb.jpg,VinCommerce|||VM+QNH 10604062 Trần Phú Số 10604062 Đường Trần Phú TP. Cẩm Phả Quảng Ninh|||Ngày bán: 12/08/2020 17:26|||TỔNG TIỀN PHẢI T.TOÁN 12.000
+mcocr_private_145120xybgv.jpg,|||Tang 23-24 Toa Center Building So 1 Nguyen Huy Tuong P.Thanh|||08/2020 - 49120|||1786.313 VND 60.000 VND
+mcocr_private_145120silda.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 09/08/2020 - 17:39|||Tổng cộng: 265000
+mcocr_private_145120typdw.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 12/08/2020 - 14:16|||Tổng tiền 386002
+mcocr_private_145120hnosf.jpg,TẠI DU QN 195 - XX|||Tong the dend||||||
+mcocr_private_145120vvopk.jpg,VINMART TÊN ĐẠI LÝ|||TỔ 7 KHU MINH TIẾN A.P . CA ĐỊA CHỈ:|||13/06/2020 17:57:09|||TỔNG: 100.000 Đ
+mcocr_private_145120epens.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày: 13/08/2020 Thời gian: 16:13|||
+mcocr_private_145120mobxm.jpg,Saigon Co.op Co.op Food HN THE K-PARK|||Than Toa K3 Cong Trinh chung cu Du an Dau dich vu tren o dat H-C12 thuart San Dau tu xay dung Khu nha o Hi Bran Tai Khu do thi moi Van Phu Noi Phu L3 Q. Ha Dong TP Ha Noi|||Ngày: 19/09/2019 18:17:43|||Tong so tien thanh toan: 30265.0 Tong so tien thanh toan:
+mcocr_private_145120lrmyr.jpg,|||Melinh Plaza Hà Đông|||12/08/2020 18:30|||Tổng tiền
+mcocr_private_145120yucon.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 09/08/2020 18:24|||TỔNG TIỀN PHẢI T.TOÁN 35.100
+mcocr_private_145120rwlmr.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 13/08/2020 - 18:02|||Tổng cộng: 117000
+mcocr_private_145120xzodh.jpg,Saigon Co.op||||||Ngày: 20/09/2019|||Tong so tien thanh toan: 366600.00
+mcocr_private_145120ugttg.jpg,VinCommerce|||VM+ QNH Dự án KDC lấn biển coc 6 DA khu DCLB cọc 6.P.Cẩm Sơn TP. Cẩm Phả T.Quảng Ninh|||Ngày bán: 14/08/2020 22:04|||TỔNG TIỀN PHẢI T.TOÁN 296.900
+mcocr_private_145120nhkcx.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 10/08/2020 - 16:07|||Tổng cộng: 119000
+mcocr_private_145120jtake.jpg,VinCommerce|||VM+ QNH Tổ 7 khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày: 13/08/2020 Thời gian: 17:34|||
+mcocr_private_145120tswei.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 14/08/2020 21:58|||TỔNG TIỀN PHẢI T.TOÁN 16.500
+mcocr_private_145120vogtr.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm||||||Tổng tiền 293012
+mcocr_private_145120bokpe.jpg,|||191 Quang Trung Q.9 Dien thoai giao hang: (028)3730723|||Ngày: 21/07/2020 18:24|||Tong so tien thanh toan: 32217.20
+mcocr_private_145120oogln.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 14/08/2020 16:21|||TỔNG TIỀN PHẢI T.TOÁN 10.000
+mcocr_private_145120udjsy.jpg,VinCommerce|||VM+QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P.Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 10/08/2020 12:32|||TỔNG TIỀN PHẢI T.TOÁN 97.926
+mcocr_private_145120inznw.jpg,GAHASA|||||||||
+mcocr_private_145120urmma.jpg,VinCommerce|||VM+ TTTM Chợ Sủi Số 42 Phố Sủi xã Phú Thị huyện Gia Lâm Hà Nội|||Ngày bán: 14/08/2020 17:26|||TỔNG TIỀN PHẢI T.TOÁN 193.920
+mcocr_private_145120tqkzt.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày : 17/08/2020 - 17:53|||Tổng cộng 180000
+mcocr_private_145120biprv.jpg,VinCommerce|||VM+QNH 1060-1062 Trần Phú Số 10604062 Đường Trần Phú TP. Cẩm Phả Quảng Ninh|||Ngày bán: 15/08/2020 07:20|||TỔNG TIỀN PHẢI T.TOÁN 200.000
+mcocr_private_145120nwfxv.jpg,VinCommerce|||VM+QNH 690 Trần Phú Số 590 Trần Phú P. Cẩm Thủy TP. Cẩm Phả Quảng Ninh|||Ngày bán: 15/08/2020 07:43|||TỔNG TIỀN PHẢI T.TOÁN 31.320
+mcocr_private_145120btfhn.jpg,MILANO COFFEE|||186 Cây Trâm P.11 Q.Gò Vấp TP.HCM|||02.10.2020 15.37|||Tiên Thanh Toán 15 000
+mcocr_private_145120rpsfw.jpg,SCTC CÔ THỎ 104 TRẦN PHÚ - CẨM PHẢ|||104 Trần Phú - phường Cẩm Tây - Thành phố Cẩm Phả - Quảng Ninh|||Ngày: 10/08/2020 (09:48 CH - 09:48 CH)|||45.000đ
+mcocr_private_145120ahyvq.jpg,SIEU THI BACH HOA TONG HOP|||Số 5 Cẩm Tây - Cẩm Phả - QN||||||Tổng cộng (đã gồm VAT) 52.000
+mcocr_private_145120pybmq.jpg,VINMART TÊN ĐẠI LÝ:|||TỔ 7 KHU MINH TIẾN A.P.CA|||NGÀY|||TỔNG: 200.000 Đ
+mcocr_private_145120xqhxt.jpg,VinCommerce|||VM+QNH 1060-1062 Trần Phú Số 10604062 Đường Trần Phú TP. Cẩm Phả Quảng Ninh|||Ngày bán: 15/08/2020 09:59|||TỔNG TIỀN PHẢI T.TOÁN 42.300
+mcocr_private_145120xocav.jpg,CTY CP DI PT CN TTP TÊN ĐẠI LÝ:|||ĐỊA CHỈ ĐẠI LÝ: CAM PHA-QUANG NINH|||NGÀY 09/08/2020 17:54:15|||TỔNG CỘNG: UND463200
+mcocr_private_145120sidqj.jpg,|||||||||(LWY 30) (JUNOISE )
+mcocr_private_145120cbyep.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 09/08/2020 18:03|||TỔNG TIỀN PHẢI T.TOÁN 70.400
+mcocr_private_145120tjvke.jpg,VinCommerce|||VM+ Mỹ Đình Tầng 1 nhà CT9 KĐT Mỹ Đình P. Mi Trì Q. Nam Từ Liêm HN|||Ngày bán: 21/08/2020 18:27|||TỔNG TIỀN PHẢI T.TOÁN 112.235
+mcocr_private_145120wsxhs.jpg,TÊN ĐẠI LÝ|||ĐỊA CHỈ ĐẠI LÝ:|||NGÀY: 16/05/2020 GIO 13:55.33|||TỔNG CÔNG: UND28.000
+mcocr_private_145120ddbdw.jpg,SIEU THI BACH HOA TONG HOP|||Số 5 Cẩm Tây - Cẩm Phả - QN||||||Tổng cộng (đã gồm VAT) 105000
+mcocr_private_145120jwxbj.jpg,THE COFFEE HQUSE|||403 Phan Huy Ích P.14 Q.Gò Vấp|||Thời gian: 30.09.2020 08.08|||Thanh Toán 40 000
+mcocr_private_145120gpyay.jpg,VinCommerce|||VM+QNH 590 Trần Phú Số 590 Trần Phú P. Cẩm Thủy TP. Cẩm Phả Quảng Ninh|||Ngày bán: 15/08/2020 10:05|||
+mcocr_private_145120kktef.jpg,Saigon Co.op Co.op Food HN THE K-PARK|||P. Phu La Q. Ha Dong Tp Ha Noi|||Ngày: 20/09/2019 12:18:21|||Tong so tien thanh toan: 27213.00
+mcocr_private_145120qsskw.jpg,Guitar Cafe|||28 Phan Chu Trinh Hiệp Phú Quân 9 Hồ|||Ngày lập: 03/10/2020|||Thành tiền
+mcocr_private_145120nsnxf.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 15/08/2020 07:10|||TỔNG TIỀN PHẢI T.TOÁN 101.500
+mcocr_private_145120jzwyq.jpg,VinCommerce|||VM+QNH Dự án quỹ đất đường sắt DA QĐ dọc tuyến ĐS Tổ 3 Khu 2 P. Cẩm Sơn TP. Cẩm Phả T.QN|||Ngày bán: 15/08/2020 11:01|||TỔNG TIỀN PHẢI T.TOÁN 12.000
+mcocr_private_145120djlum.jpg,|||TỔ / ĐO NAN TIỀN A P.CA||||||TỔNG: 637.917 Đ
+mcocr_private_145120sfkpq.jpg,NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú - Cẩm Phả|||Thời gian 20:34:38 - 14/08/2020|||Tổng số thanh toán 87.000đ
+mcocr_private_145120fqeaq.jpg,THỨC COFFEE|||22 Quang Trung P10 Gò Vấp|||17.03.2019 Giờ vào: 15.05 15.06|||Tiền Thanh Toán 35 000
+mcocr_private_145120zneoy.jpg,|||||||||
+mcocr_private_145120opumm.jpg,VinCommerce|||VM+QNH 10604062 Trần Phú Số 1060-1062 Đường Trần Phú TP. Cẩm Phả Quảng Ninh|||Ngày bán: 13/08/2020 09:53|||TỔNG TIỀN PHẢI T.TOÁN 76.000
+mcocr_private_145120gmdua.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 11/08/2020 - 08:33|||Tổng cộng 101000
+mcocr_private_145121axatl.jpg,BÁCH HOÁ XANH|||Thần Sơn Nhì Quận Tân Phú Thành phố Hồ Ch|||Ngày CT: 12/08/2020 20:12 12/08/2020 20:12|||
+mcocr_private_145121kpago.jpg,VinCommerce|||VM+ QNH Dự án KDC lấn biển cọc 6 DA khu DCLB coc 8 P. Cẩm Sơn TP. Cẩm Phả T.Quảng Ninh|||Ngày bán: 14/08/2020 17:50|||TỔNG TIỀN PHẢI T.TOÁN 12.800
+mcocr_private_145121lfqob.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày: 13/08/2020 Thời gian: 16:18|||
+mcocr_private_145121pjnag.jpg,VinCommerce|||VM+QNH Dự án quỹ đất đường sắt DA QĐ doc tuyến ĐS Tổ 3 Khu 2 P. Cẩm Sơn TP. Cẩm Phả T.QN|||Ngày bán: 14/08/2020 18:56|||TỔNG TIỀN PHẢI T.TOÁN 98.085
+mcocr_private_145121szjzk.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 15/08/2020 10:14|||TỔNG TIỀN PHẢI T.TOÁN 31.500
+mcocr_private_145121xgfdd.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 16/08/2020 - 16:51|||Tổng cộng 86000
+mcocr_private_145121pgxpu.jpg,|||22 Quang Trung P10 Gò Vấp|||Ngày: 31.03.2019 Giờ ra: Giờ ra: 09.30|||Tiền Thanh Toán 35 000
+mcocr_private_145121xefpx.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 16/08/2020 - 17:19|||Tổng cộng : 89500
+mcocr_private_145121jtsvz.jpg,VinCommerce|||VM+QNH 1060-1062 Trần Phú Số 10604062 Đường Trần Phú TP. Cẩm Phả Quảng Ninh|||Ngày bán: 15/08/2020 10:58|||TỔNG TIỀN PHẢI T.TOÁN 49.900
+mcocr_private_145121ejiwh.jpg,VinCommerce|||VM+QNH 10604062 Trần Phú Số 10604062 Đường Trần Phú TP. Cẩm Phả Quảng Ninh|||Ngày bán: 12/08/2020 17:16|||TỔNG TIỀN PHẢI T.TOÁN 49.500
+mcocr_private_145121evclb.jpg,SCTC CÔ THỎ 104 TRẦN PHÚ - CẨM PHẢ|||Thà Thủ Phú phường Cẩm Tây Thành phố Cẩm Phả - Quảng Ninh|||Ngày: 08/08/28 19:46 CH - 09:46 CHĐ|||Tổng thanh toán 100.000đ
+mcocr_private_145121emlvc.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 11/08/2020 11:27|||TỔNG TIỀN PHẢI T.TOÁN 12.100
+mcocr_private_145121leefz.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 12/08/2020 - 11:33|||Tổng cộng: 141000
+mcocr_private_145121lawdy.jpg,SCTC CỘ THỎ 104 TRẦN PHÚ - CẨM PHẢ|||104 Trần Phú phường Cẩm Tây Thành phố Cẩm Phả Quảng Ninh|||Ngày: 08/08/2020 (08:22 CH - 08:22 CH)|||Tổng thanh toán
+mcocr_private_145121wfclu.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 09/08/2020 11:13|||TỔNG TIỀN PHẢI T.TOÁN 45.000
+mcocr_private_145121qywbp.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày : 15/08/2020 Thời gian: 09:53|||
+mcocr_private_145121cqrlq.jpg,||||||Ngày: 19/09/2019 Ngày: 19/09/2019 18:33:45|||Tong so tien thanh toan: 144408.20
+mcocr_private_145121odkou.jpg,Saigon Co.op Co.op Food HN THE K-PARK|||Tang 1SH42 - Toa K3Cong trinh chung cu ket hop dich vu tren o dat H-CT2 thuoc Du an Dau tu xay dung Khu nha o Hi Brand tai Khu do thi moi Van Phu P. Phu La Q. Ha Dong Tp Ha Noi|||Ngày: 23/09/2019 Ngày: 23/09/2019 10:41:59 10:41:59|||so tien thanh toan:
+mcocr_private_145121jjefo.jpg,BIG C DI AN|||P. Cung H8 . BNN DUONG (TEBRO)||||||TONG CONG 44.067
+mcocr_private_145121haoxr.jpg,4358 VINMART TÊN ĐẠI LÝ|||ĐỊA CHỈ ĐẠI LÝ TP CAM PHA-QN|||NGÀY: 13/08/2020 19:39:11|||TỔNG CỘNG: VND249600
+mcocr_private_145121vwcbq.jpg,Saigon Co.op Co.op Food HN THE K-PARK|||tai Khu do thi moi Van Phu P. Phu La Q. Ha Dong Tp Ha Noi|||Ngày: 20/09/2019 10:25:34|||27291.20
+mcocr_private_145121byien.jpg,|||22 Quang Trung P10 Gò Vấp|||Ngày: 17.03.2019 12.41|||Tiền Thanh Toán 45 000
+mcocr_private_145121izwpe.jpg,||||||NGÀY HỆ THỐNG: 13/08/2020 22:04|||Tổng Tiền 16.941.087
+mcocr_private_145121nuxjo.jpg,NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||Thời gian: 20:08:56 - 14/08/2020|||25.000đ
+mcocr_private_145121sngso.jpg,SCTC CÔ THỎ 104 TRẦN PHÚ - CẨM PHẢ|||104 Trần Phú phường Cẩm Tây - Thành phố Cẩm Phả - Quảng Ninh|||Ngày: 09/08/2020 (09:28 CH - 09:28 CH)|||Tổng thanh toán 60.000đ
+mcocr_private_145121ycazg.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày: 15/08/2020 Thời gian: 11:08|||
+mcocr_private_145121gdeww.jpg,||||||NGÀY HO THONG: 14/08/2020 13:21|||Tổng Tiền Tổng thanh toán 4.614.466 4.750.466
+mcocr_private_145121ssqlo.jpg,VinCommerce|||VM+ QNH Tổ 8 Khu 38 Cẩm Trung Tổ 8 Khu 3B P. Cẩm Trung TP. Cẩm Phả T.Quảng Ninh|||Ngày bán: 13/08/2020 BÁN 19|||TỔNG TIỀN PHẢI T.TOÁN 28.000
+mcocr_private_145121bxdcv.jpg,CỬA HÀNG NĂM OÁNH|||Thôn Phú Thuỵ Xã Phú Thị Huyện Gia Lâm TP Hà Nội|||Ngày: 11-08-2020|||Cộng tiền hàng 69000
+mcocr_private_145121wqvca.jpg,TÊN ĐẠI LY:|||TỔ 8 KHU 38.P. CẨM TRUNG 1 ĐỊA CHỈ:|||13/08/2020 19:12 : 43|||TỔNG: 500.000 Đ
+mcocr_private_145121ofqvx.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 12/08/2020 - 13:00|||Tổng cộng : 56000
+mcocr_private_145121mpsix.jpg,Phúc Anh Minimart|||248 Cổ Bi - Gia Lâm - Hà Nội|||Ngày: 11-08-2020|||Khách phải trả 88000
+mcocr_private_145121tuswl.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 14/08/2020 16:43|||TỔNG TIỀN PHẢI T.TOÁN 52.421
+mcocr_private_145121cjtsq.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 10/08/2020 - 16:33|||Tổng tiền 386026
+mcocr_private_145121aephc.jpg,Saigon Co.op Co.op Food HN THE K-PARK|||ket hop dich vu tren o dat H-CT2 thuoc tai Khu do thi moi Van Phu P. Phu La Q. Ha Dong Tp Ha Noi|||Ngày: 23/09/2019|||Tong so tien thanh toan: 13832.00
+mcocr_private_145121spywb.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 10/08/2020 12:28|||TỔNG TIỀN PHẢI T.TOÁN 20.000
+mcocr_private_145121vmfkr.jpg,VinCommerce|||Số 42 Phố Sủi xã Phú Thị Thuyện Gia Lâm Hà Nội|||Ngày bán: 15/08/2020 07:55|||TIỀN KHÁCH TRẢ 148.000
+mcocr_private_145121bzwmq.jpg,CỬA HÀNG NĂM OÁNH|||Thôn Phú Thụy Xã Phú Thị Huyện Gia Lâm TP Hà Nội|||Ngày: 12-08-2020|||Cộng tiền hàng 45000
+mcocr_private_145121trljp.jpg,VinCommerce|||VM+ QNH 112 Thanh Niên Số 112 Thanh Niên P. Cẩm Thành TP. Cẩm Phả Quảng Ninh|||Ngày bán: 14/08/2020 09:41|||TỔNG TIỀN PHẢI T.TOÁN 20.250
+mcocr_private_145121nwwip.jpg,VinCommerce|||VM+ QNH Tổ 7 khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 13/08/2020 14:40|||TỔNG TIỀN PHẢI T.TOÁN 70.419
+mcocr_private_145121wvbms.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 14/08/2020 10:53|||TỔNG TIỀN PHẢI T.TOÁN 70.198
+mcocr_private_145121stjms.jpg,VinCommerce|||VM+QNH 10604062 Trần Phú Số 10604062 Đường Trần Phú TP. Cẩm Phả Quảng Ninh|||Ngày bán: 15/08/2020 09:46|||TỔNG TIỀN PHẢI T.TOÁN 54.463
+mcocr_private_145121pcidy.jpg,CỬA HÀNG NĂM OÁNH|||Thôn Phú Thuỵ Xã Phú Thị Huyện Gia Lâm TP Hà Nội|||Ngày: 10-08-2020|||Cộng tiền hàng 550000
+mcocr_private_145121wrkxs.jpg,SCTC CÔ THỎ 104 TRẦN PHÚ - CẨM PHẢ|||104 Trần Phú phường Cẩm Tây - Thành phố Cẩm Phả - Quảng Ninh|||Ngày: 08/08/2020 (10:35 CH - 1035 CH)|||Tổng thanh toán 125.000đ
+mcocr_private_145121zpirw.jpg,VinCommerce|||VM+QNH 1060-1062 Trần Phú Số 10604062 Đường Trần Phú TP. Cẩm Phả Quảng Ninh|||Ngày bán: 14/08/2020 21:13|||TỔNG TIỀN PHẢI T.TOÁN 55.100
+mcocr_private_145121rtjyu.jpg,||||||NGÀY KINH DOANH: 14/08/2020|||Tổng thanh toán 25.161.872
+mcocr_private_145121gekvy.jpg,TÊN ĐẠI LÝ: VINMART|||ĐỊA CHỈ: SỐ 590 TRẦN PHÚ P. CẨM THÚ|||14/08/2020 17:13:03|||TỔNG: 50.000 Đ
+mcocr_private_145121yzycq.jpg,VinCommerce|||VM+QNH 1060-1062 Trần Phú Số 10604062 Đường Trần Phú TP. Cẩm Phả Quảng Ninh|||Ngày bán: 13/08/2020 18:58|||TỔNG TIỀN PHẢI T.TOÁN 100.700
+mcocr_private_145121pyboc.jpg,NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||Thời gian: 10:26:16 - 13/08/2020|||Tổng số thanh toán 87.000đ
+mcocr_private_145121trzmp.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 14/08/2020 18:14|||TỔNG TIỀN PHẢI T.TOÁN 48.600
+mcocr_private_145121qsztx.jpg,Saigon Co.op Co.op Food HN THE K-PARK|||tai Khu do thi moi Van Phu P. Phu La Q. Ha Dong Tp Ha Noi|||Ngày: 19/09/2019 18:33:45|||Tong so tien thanh toan: 144408.20
+mcocr_private_145121uslvw.jpg,CỬA HÀNG NĂM OÁNH|||Thôn Phú Thụy Xã Phú Thị Huyện Gia Lâm TP Hà Nội|||Ngày: 14-07-2020|||Cộng tiền hàng 660000
+mcocr_private_145121ytqjr.jpg,VinCommerce|||VM+QNH Tổ 8 Khu 3B Cẩm Trung Tổ 8 Khu 3B P. Cẩm Trung TP. Cẩm Phả T.Quảng Ninh|||Ngày bán: 13/08/2020 11:47|||TỔNG TIỀN PHẢI T.TOÁN 40.000
+mcocr_private_145121ohvev.jpg,VinCommerce|||VM+QNH 10604062 Trần Phú Số 10604062 Đường Trần Phú TP. Cẩm Phả Quảng Ninh|||Ngày bán: 15/08/2020 06:10|||TỔNG TIỀN PHẢI T.TOÁN 24.450
+mcocr_private_145121ofugc.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 17/08/2020 - 10:53|||Tổng cộng 98000
+mcocr_private_145121yprkq.jpg,|||tai Khu do thi moi Van Phu P. Phu La Q. Ha Dong Tp Ha Noi|||Ngày: 19/09/2019 18:19:11|||54000.00
+mcocr_private_145121jnyda.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 13/08/2020 16:33|||TỔNG TIỀN PHẢI T.TOÁN 33.800
+mcocr_private_145121qvqen.jpg,CỬA HÀNG NĂM OÁNH|||Thôn Phú Thuỵ Xã Phú Thị Huyện Gia Lâm TP Hà Nội|||Ngày: 11-08-2020|||Cộng tiền hàng 131500
+mcocr_private_145121jrylx.jpg,PHỐ MỎ|||Tổ 7 khu Tân Lập 4 - P.Cẩm Thủy Tp. Cẩm Phả - Quảng Ninh|||11/08/2020 - 22:32|||Tổng cộng: 25000
+mcocr_private_145121phqfz.jpg,||||||NGÀY KINH DOANH: 12/08/2020|||Tổng thanh toán Tổng Tiền 6.378.441
+mcocr_private_145121pmtie.jpg,THE COFFEE HQUSE|||403 Phan Huy Ích P.14 Q.Gò Vấp|||Thời gian: 30.09.2020 08.25|||67 000
+mcocr_private_145121ojvci.jpg,NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||Thời gian: 09:58:24 - 15/08/2020|||Tổng số thanh toán 127.000đ
+mcocr_private_145121lomnx.jpg,||||||Ngày: 17/09/2019 11:14:04|||Tong so tien thanh toan:
+mcocr_private_145121oihna.jpg,Laha Cafe JUST GOOD COFFEE|||N5u Phú Phú Phú Phú Phú Phú Phú Phú Phú Phú Phú Phú Phú Phú Phú Phú Phú Phú Phú Phú Phú Phú Phú Phú Phú Phú Phú Phú Phú Phú Phú P|||Ngày: 09.10.2C20 Giờ vào: 19.42|||Tổng cộng:
+mcocr_private_145121vztxn.jpg,TÊN ĐẠI LÝ VINMART|||ĐỊA CHỈ: SỐ 1060-1062 TRẦN PHÚ P.C|||NGÀY 14/08/2020 20:35:27|||TỔNG:
+mcocr_private_145121rhddh.jpg,VinCommerce|||VM+ QNH Dự án KDC lấn biển cọc 6 DA khu DCLB cọc 6 P.Cẩm Sơn TP. Cẩm Phả T.Quảng Ninh|||Ngày bán: 12/08/2020 18:10|||TỔNG TIỀN PHẢI T.TOÁN 12.000
+mcocr_private_145121qfwji.jpg,NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||Thời gian: 10:23:00 - 15/08/2020|||Tổng số thanh toán 7.000đ
+mcocr_private_145121bgtjt.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 14/08/2020 06:59|||TỔNG TIỀN PHẢI T.TOÁN 12.000
+mcocr_private_145121armrj.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 12/08/2020 - 08:07|||Tổng cộng 108000
+mcocr_private_145121fbfct.jpg,VinCommerce|||VM+QNH 1060-1062 Trần Phú Số 1060-1062 Đường Trần Phú TP. Cẩm Phả Quảng Ninh|||Ngày bán: 12/08/2020 16:09|||TỔNG TIỀN PHẢI T.TOÁN 397.300
+mcocr_private_145121veynk.jpg,VinCommerce|||VM+ TTTM Chợ Sủi Số 42 Phố Sủi xã Phú Thị huyện Gia Lâm Hà Nội|||Ngày bán: 14/08/2020 17:26|||TỔNG TIỀN PHẢI T.TOÁN 193.920
+mcocr_private_145121xducg.jpg,Saigon Co.op Co.op Food HN THE K-PARK|||tai Khu do thi moi Van Phu P. Phu La Q. Ha Dong Tp Ha Noi|||Ngày: 23/09/2019|||Tong so tien thanh toan: 53889.00
+mcocr_private_145121xnmdu.jpg,VinCommerce|||VM+ QNH Tổ 7 khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 10/08/2020 07:46|||TỔNG TIỀN PHẢI T.TOÁN 18.800
+mcocr_private_145121uahht.jpg,VinCommerce|||VM+QNH 1060-1062 Trần Phú Số 10604062 Đường Trần Phú TP. Cẩm Phả Quảng Ninh|||Ngày bán: 14/08/2020 17:38|||TỔNG TIỀN PHẢI T.TOÁN 40.000
+mcocr_private_145121pzatx.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 16/08/2020 - 17:12|||Tổng tiền 62000
+mcocr_private_145121xnpxe.jpg,TÊN ĐẠI LÝ VGH_VINMART 4987 VMQNH|||ĐỊA CHỈ ĐẠI LÝ TỔ 8 KHU 3H P CẨM TRUNG CAM PHA QUANG NINH|||NGÀY 12/05/2020 11:13:58|||TỔNG CỘNG: UND 110.898
+mcocr_private_145121hzene.jpg,NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú - Cẩm Phả|||Thời gian: 11:37:45 - 14/08/2020|||Tổng số thanh toán 220.000đ
+mcocr_private_145121oiyws.jpg,NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||Thời gian: 09:17:21 - 11/08/2020|||Tổng số thanh toán 49.000đ
+mcocr_private_145121vspoh.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 10/08/2020 - 17:10|||Tổng tiền 135336
+mcocr_private_145121lhsvo.jpg,Saigon Co.op Co.op Food HN THE K-PARK|||tai Khu do thi moi Van Phu P. Phu La Q. Ha Dong Tp Ha Noi|||Ngày: 19/09/2019 18|||Tong so tien thanh toan: 29300.00
+mcocr_private_145121odzre.jpg,SCTC CỔ THỎ 104 TRẦN PHÚ - CẨM PHẢ|||104 Trần Phú - phường Cẩm Tây - Thành phố Cẩm Phả - Quảng Ninh|||Ngày: 10/08/2020 (09:17 CH - 09:17 CH)|||Tổng thanh toán 25.000đ
+mcocr_private_145121mncbm.jpg,VGR VINMART 1.0/2VMQNH|||ĐỊA CHỈ ĐẠI LÝ TO B KHU 3B P. CAN TRUNG CAM PHA QUANG NINH|||NGÀY: 04/05/2020 GIO: 07:46:03|||TỔNG CỘNG: VND 186.100
+mcocr_private_145121fszli.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 15/08/2020 - 18:41|||Tổng tiền 99000
+mcocr_private_145121dvszj.jpg,CỬA HÀNG NĂM OÁNH|||Thôn Phú Thuỵ Xã Phú Thị Huyện Gia Lâm TP Hà Nội|||Ngày: 11-08-2020|||Cộng tiền hàng 43500
+mcocr_private_145121muyjp.jpg,TÊN ĐẠI LÝ:|||Số 1066-1062 TRẦN PHÚ P.C ĐỊA CHỈ:|||12/08/2020 09:33:40|||TỔNG: 993.665 Đ
+mcocr_private_145121xturt.jpg,|||22 Quang Trung P10 Gò Vấp||||||Tiên Thanh Toán
+mcocr_private_145121nwzna.jpg,CỬA HÀNG NĂM OÁNH|||Thôn Phú Thụy Xã Phú Thị Huyện Gia Lâm TP Hà Nội|||Ngày: 11-08-2020|||Cộng tiền hàng 15000
+mcocr_private_145121taoai.jpg,VinCommerce|||VM+ QNH 112 Thanh Niên Số 112 Thanh Niên P. Cẩm Thành TP. Cẩm Phả Quảng Ninh|||Ngày bán: 15/08/2020 09:12|||TỔNG TIỀN PHẢI T.TOÁN 12.000
+mcocr_private_145121uppbx.jpg,SIEU THI BACH HOA TONG HOP|||Số 5 Cẩm Tây - Cẩm Phả - QN|||Ngày: 10/08/2020 - 11:|||Tổng cộng (đã gồm VAT) 144000
+mcocr_private_145121vdfbw.jpg,VinCommerce|||VM+ QNH Tổ 7 khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 12/08/2020 21:18|||TỔNG TIỀN PHẢI T.TOÁN 20.000
+mcocr_private_145121zgxth.jpg,VinCommert|||VM+ QNH 112 Thanh Niên Số 112 Thanh Niên P. Cẩm Thành TP. Cẩm Phả Quảng Ninh|||Ngày bán: 11/08/2020 12:46|||26.400
+mcocr_private_145121gbura.jpg,Co.opnart HAU GIA14|||188 Hau Khu 20 3 . 600.503||||||1488500.00
+mcocr_private_145121fqdpf.jpg,|||||||||6uyn eny ens Jeox enup ens
+mcocr_private_145121bddlk.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 09/08/2020-21:21|||Tổng cộng 84000
+mcocr_private_145121qtpyr.jpg,Guitar Cafe|||28 Phan Chu Trinh Hiệp Phú Quận 9 Hồ|||Ngày lập: 03/10/2020|||
+mcocr_private_145121srzde.jpg,|||22 Quang Trung P10 Go vap|||Ngày:|||
+mcocr_private_145121hlcvt.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 11/08/2020 - 21:11|||Tổng tiền 701040
+mcocr_private_145121reeuz.jpg,coopsmate|||Phuong Dong Hoa Thị xa Di An Tỉnh Binh Duong|||Ngày: 07/09/2020 Gio: 08:30:51|||TONG CONG 17.000
+mcocr_private_145121ieaju.jpg,Co.op Food HN THE K-PARK||||||Ngày: 20/09/2019 12:18:21|||Tong so tien thanh toan: 27213.00
+mcocr_private_145121yezog.jpg,TÊN ĐẠI LÝ:|||LIÊN DANH CHO KHÁCH HANG ĐỊA CHỈ ĐẠI LÝ: CAM PHA QUANG NINH|||NGÀY GIO: 17:34:41|||TỔNG CỘNG: UND271000
+mcocr_private_145121gguzl.jpg,NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||Thời gian 20:10:41 - 14/08/2020|||Tổng số thanh toán 302.000đ
+mcocr_private_145121tddlr.jpg,NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||Thời gian: 08:47:35 - 11/08/2020|||Tổng số thanh toán 90.000đ
+mcocr_private_145121ggbsz.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP Cẩm Phả QNH|||Ngày bán: 12/08/2020 21:05|||TỔNG TIỀN PHẢI T.TOÁN 40.900
+mcocr_private_145121rcvva.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 12/08/2020 - 14:16|||Tổng cộng 263000
+mcocr_private_145121bciwl.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 13/08/2020 21:47|||TỔNG TIỀN PHẢI T.TOÁN 103.000
+mcocr_private_145121fmuoc.jpg,VinCommerce|||VM+ CNH Tổ T.Khu Kinh Tiến A Tổ 7 Khu Minh Tiến A P.Cẩm Bình TP.Cẩm Phả QNH|||Dân 880 cho khách bàng)|||
+mcocr_private_145121yyzal.jpg,NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC 212 Đường Trần Phú-Cẩm Phả|||Thời gian: 09:48:24 - 13/08/2020|||Tổng số thanh toán 70.000đ
+mcocr_private_145121rtufg.jpg,Helcome to Trung Nguyen Legend|||Add: 683 - 685 duong 3/2 P.6 Q.10 - HCM||||||Ngày: 04/20/19 11:25
+mcocr_private_145121eojyh.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 10/08/2020 - 17:22|||Tổng cộng 68000
+mcocr_private_145121fpqeu.jpg,VinCommerce|||VM+QNH Dự án KDC lấn biển cọc 6 DA khu DCLB cọc 6 P.Cẩm Sơn TP. Cẩm Phả T.Quảng Ninh|||Ngày: 15/08/2020 Thời gian: 10:28|||
+mcocr_private_145121auqqj.jpg,NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||Thời gian: 10:51:22 - 11/08/2020|||Tổng số thanh toán 36.000đ
+mcocr_private_145121suqcn.jpg,VinCommerce|||VM+QNH Dự án KDC lấn biển cọc 6 DA khu DCLB coc 6 P. Cẩm Sơn TP. Cẩm Phả T.Quảng Ninh|||Ngày bán: 14/08/2020 16:35|||TỔNG TIỀN PHẢI T.TOÁN 6.400
+mcocr_private_145121svpot.jpg,PHỐ MỎ|||Tổ 7 khu Tân Lập 4 - P.Cẩm Thuỷ Tp. Cẩm Phả - Quảng Ninh|||11/08/2020 - 17:52|||Cộng tiền hàng: Tổng cộng: 20000
+mcocr_private_145121zqvoc.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 10/08/2020 - 16:08|||Tiền khách trản Tổng cộng : 32000
+mcocr_private_145121brrqt.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 10/08/2020 - 17:09|||Tổng cộng: 74000
+mcocr_private_145121olllu.jpg,||||||Ngày: 21/05/2020 17:14:18|||
+mcocr_private_145121rvoxa.jpg,Saigon Co.op Co.op Food HN THE K-PARK|||tai Khu do thi moi Van Phu P. Phu La Q. Ha Dong Tp Ha Noi|||Ngày: 19/09/2019 18:14:44|||25200.00
+mcocr_private_145121sqpwb.jpg,Saigon Co.op Co.op Food HN THE K-PARK|||tai Khu do thi moi Van Phu P. Phu La Q. Ha Dong Tp Ha Noi|||Ngày: 19/09/2019 18:16:44|||Tong so tien thanh toan: 59190.00
+mcocr_private_145121zbmnw.jpg,TÊN ĐẠI LÝ|||ĐỊA CHỈ ĐẠI LÝ: TO 8 KHU 3B P. CAM TRUNG CAM PHA QUANG NINH|||NGÀY: 30/04/2020 GIO: 10:23:55|||TỔNG CÔNG: VND62000
+mcocr_private_145121vpylo.jpg,Giảm giả Xuân|||244/23a Huỳnh Văn Bánh P.11 Q.PN|||Ngày giờ ra: Ngày giờ vào: 04.10.2020 19.35|||Tiên Thanh Toán 74 000
+mcocr_private_145121okklv.jpg,VinCommerce|||VM+ QNH 1060-1062 Trần Phú Số 1060-1062 Đường Trần Phú TP. Cẩm Phả Quảng Ninh|||Ngày bán: 14/08/2020 06:47|||TỔNG TIỀN PHẢI T.TOÁN 19.900
+mcocr_private_145121gntrz.jpg,VinCommerce|||VM+ QNH 1090-1062 Trần Phú Số 1060-1062 Dường Trần Phú TP. Cẩm Phả Quảng Ninh|||Ngày bán: 12/08/2020 20:15|||TỔNG TIỀN PHẢI T.TOÁN 46.000
+mcocr_private_145121oyoxa.jpg,NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||Thời gian: 08:53:41 - 11/08/2020|||Tổng số thanh toán 36.000đ
+mcocr_private_145121vprze.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày : 11/08/2020 - 16:58|||Tổng tiền 112000
+mcocr_private_145121mldik.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 13/08/2020 19:49|||TỔNG TIỀN PHẢI T.TOÁN 28.000
+mcocr_private_145121ucwhf.jpg,VinCommerce|||Số 42 Phố Sủi xã Phú Thị Thuyện Gia Lâm Hà Nội|||Ngày bán: 15/08/2020 07:55|||TIỀN KHÁCH TRẢ 148.000
+mcocr_private_145121lejvk.jpg,VinCommerce|||VM+ QNH 590 Trần Phú Số 590 Trần Phú P. Cẩm Thủy TP. Cẩm Phả Quảng Ninh|||Ngày: 14/08/2020 Thời gian: 08:30|||
+mcocr_private_145121geflx.jpg,VinCommerce|||VM+ QNH 112 Thanh Niên Số 112 Thanh Niên P. Cẩm Thành TP. Cẩm Phả Quảng Ninh|||Ngày bán: 13/08/2020 10:20|||TỔNG TIỀN PHẢI T.TOÁN 203.397
+mcocr_private_145121ulqxe.jpg,PHỐ MỎ|||Tổ 7 khu Tân Lập 4 - P.Cẩm Thủy Tp. Cẩm Phả - Quảng Ninh|||13/08/2020 - 19:52|||Tổng cộng: 20000
+mcocr_private_145121boead.jpg,THỨC COFFEE|||22 Quang Trung P10 Gò Vấp|||Giờ vào: 14.21 Giờ ra: Ngày: 31.03.2019 14.22|||Tiền Thanh Toán 70 000
+mcocr_private_145121sbmxe.jpg,VinCommerce|||VM+ QNH 86 Trần Phú Số 86 Đường Trần Phú P. Cẩm Tây TP Cẩm Phả T.Quảng Ninh|||Ngày bán: 10/08/2020 09:29|||TỔNG TIỀN PHẢI T.TOÁN 323.495
+mcocr_private_145121wwpst.jpg,||||||NGÀY KINH DOANH: 13/08/2020|||Tổng thanh toán Tổng Tiến 17.094.714 17.062.714
+mcocr_private_145121embny.jpg,VinCommerce|||VM+ HNI 36 Đình Thôn Số 36 Đình Thôn P. Mỹ Định T Q. Nam Từ Liêm Hà Nội|||Ngày bán: 14/08/2020 17:25|||TỔNG TIỀN PHẢI T.TOÁN 178.722
+mcocr_private_145121rjbqf.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày: 13/08/2020 Thời gian: 18:16|||
+mcocr_private_145121bnfhp.jpg,VinCommerce|||VM+QNH 10604062 Trần Phú Số 10604062 Đường Trần Phú TP. Cẩm Phả Quảng Ninh|||Ngày bán: 13/08/2020 10:00|||TỔNG TIỀN PHẢI T.TOÁN 66.800
+mcocr_private_145121nbiok.jpg,||||||NGÀY HỆ THONG:07/08/2020 22:10|||Hồng thanh toán 15.539.036
+mcocr_private_145121zrjti.jpg,VinCommerce|||VM+ QNH 590 Trần Phú Số 690 Trần Phú P.Cẩm Thuỷ TP Cẩm Phả Quảng Ninh|||Ngày bán: 14/08/2020 07:39|||TỔNG TIỀN PHẢI T.TOÁN 61.000
+mcocr_private_145121ytyju.jpg,VinCommerce|||VM+ QNH Dự án KDC lấn biển coc 6 DA khu DCL B cọc 6 P.Cẩm Sơn TP. Cẩm Phả T.Quảng Ninh|||Ngày bán: 12/08/2020 18:15|||TỔNG TIỀN PHẢI T.TOÁN 27.992
+mcocr_private_145121xmjqr.jpg,VinCommerce|||VM+ QNH 112 Thanh Niên Số 112 Thanh Niên P. Cẩm Thành TP.Cẩm Phả Quảng Ninh|||Ngày bán: 13/08/2020 06:45|||TỔNG TIỀN PHẢI T.TOÁN 36.000
+mcocr_private_145121qtukg.jpg,VinCommerce|||VM+QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 13/08/2020 16:13|||TỔNG TIỀN PHẢI T.TOÁN 49.500
+mcocr_private_145121mihjo.jpg,NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||Thời gian: 20:21:36 - 14/08/2020|||Tổng số thanh toán -64.000đ
+mcocr_private_145121lnerw.jpg,||||||18:24 12/08/2020|||SỐ LƯỢNG MẶT HÀNG: 19 696.950
+mcocr_private_145121jfljk.jpg,VinCommerce|||VM+ QNH Tổ 8 Khu 3B Cẩm Trung Tổ 8 Khu 3B P. Cẩm Trung TP. Cẩm Phả T.Quảng Ninh|||Ngày bán: 13/08/2020 10:03|||TỔNG TIỀN PHẢI T.TOÁN 14.000
+mcocr_private_145121ggvml.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 10/08/2020 - 14:24|||Tổng cộng: 103000
+mcocr_private_145121rjevp.jpg,VinCommerce|||VM+ QNH 1060-1062 Trần Phú Số 106041662 Đường Trần Phú TP. Cẩm Phả Quảng Ninh|||Ngày bán: 13/08/2020 18:01|||TỔNG TIỀN PHẢI T.TOÁN 246.032
+mcocr_private_145121pmgai.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày: 13/08/2020 Thời gian: 16:34|||
+mcocr_private_145121itzwi.jpg,SIEU THI BACH HOA TONG HOP|||Số 5 Cẩm Tây - Cẩm Phả - QN|||Ngày : 10/08/2020 - 11:|||Tổng cộng (đã gồm VAT) 144000
+mcocr_private_145121lvehe.jpg,VinCommerce|||VM+ QNH 112 Thanh Niên Số 112 Thanh Niên P. Cẩm Thành TP. Cẩm Phả Quảng Ninh|||Ngày bán: 11/08/2020 21:53|||TỔNG TIỀN PHẢI T.TOÁN 61.000
+mcocr_private_145121ayruq.jpg,CỬA HÀNG NĂM OÁNH|||Thôn Phú Thuỵ Xã Phú Thị Huyện Gia Lâm TP Hà Nội|||Ngày: 11-08-2020|||Cộng tiền hàng 14000
+mcocr_private_145121vgzge.jpg,VinCommerce|||VM+ QNH 86 Trần Phú Số 86 Đường Trần Phú P. Cẩm Tây TP Cẩm Phả T.Quảng Ninh|||Ngày bán: 10/08/2020 22:08|||TỔNG TIỀN PHẢI T.TOÁN 18.100
+mcocr_private_145121inkgz.jpg,MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 15/08/2020 - 19:15|||Tổng cộng: 79000
+mcocr_private_145121tuldp.jpg,Saigon Co.op Co.op Food HN THE K-PARK|||thu khu do thi moi bha o Hu P. Phu La Q. Ha Dong Vip Ham|||Ngày: 23/09/2019 10:22:20|||Tong so tien thanh toan: 38735.00
+mcocr_private_145121inqak.jpg,VinCommerce|||VM+ QNH 590 Trần Phú Số 590 Trần Phú P. Cẩm Thuỷ TP. Cẩm Phả Quảng Ninh|||Ngày bán: 14/08/2020 09:04|||TỔNG TIỀN PHẢI T.TOÁN 15.000
+mcocr_private_145121nwwgt.jpg,VinCommerce|||VM+ QNH Tổ 7 Khu Minh Tiến A Tổ 7 Khu Minh Tiến A P. Cẩm Bình TP. Cẩm Phả QNH|||Ngày bán: 13/08/2020 19:55|||TỔNG TIỀN PHẢI T.TOÁN 120.327
+mcocr_private_145121rsloz.jpg,CỬA HÀNG NĂM OÁNH|||Thôn Phú Thuỵ Xã Phú Thị Huyện Gia Lâm TP Hà Nội|||Ngày: 11-08-2020|||Cộng tiền hàng 57000

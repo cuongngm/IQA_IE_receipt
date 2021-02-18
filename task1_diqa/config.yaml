@@ -1,0 +1,8 @@
+test_during_training: True
+train_ratio: 0.7
+val_ratio: 0.2
+test_ratio: 0.1
+
+bill:
+  root: ../dataset/task1_diqa/image/
+  gt_file_path: ../dataset/task1_diqa/label/quality_info.txt

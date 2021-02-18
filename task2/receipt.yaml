@@ -1,0 +1,4 @@
+train: ../dataset/task2/images/train/
+val: ../dataset/task2/images/val/
+nc: 4
+names: ['seller', 'address', 'timestamps', 'total_cost']

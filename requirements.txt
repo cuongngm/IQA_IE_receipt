@@ -1,0 +1,9 @@
+pytorch-ignite
+pylsd
+vietocr
+pandas
+seaborn
+PyYAML
+Cython
+scikit-learn
+tensorboard
