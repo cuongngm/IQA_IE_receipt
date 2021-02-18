@@ -3,7 +3,7 @@
 # Setup folder
 ```
 python setup.py
-# copy folder dataset provided (mcocr_private_test_data, mcocr_train_data,mcocr_val_data, warmup_data) to rivf/dataset/
+# copy folder dataset provided (mcocr_private_test_data, mcocr_train_data,mcocr_val_data, warmup_data) to dataset/ folder
 ```
 # Prepare data
 (detail description was writen in file):
