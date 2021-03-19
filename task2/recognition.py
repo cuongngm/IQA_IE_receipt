@@ -10,7 +10,7 @@ class RecognitionReceipt(object):
         # self.config = Cfg.load_config_from_name("vgg_transformer")
         # self.config["weights"] = 'recognition/weights/new_transformer.pth'
         self.config = Cfg.load_config_from_name('vgg_seq2seq')
-        self.config['weights'] = 'weights/weights_seq2seq.pth'
+        self.config['weights'] = '../weights/weights_seq2seq.pth'
         self.config["device"] = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
         self.config["cnn"]["pretrained"] = False
         self.config["predictor"]["beamsearch"] = False
