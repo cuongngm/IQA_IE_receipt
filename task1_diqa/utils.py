@@ -27,16 +27,16 @@ def patchSifting(im, patch_size=24, stride=24):
         for j in range(0, w - stride, stride):
             patch = im2[i:i + patch_size, j:j + patch_size]
             if judgeAllOnesOrAllZreos(patch):
-                # patch = to_tensor(im1.crop((j, i, j + patch_size, i + patch_size)))
-                # patch = patch.float().unsqueeze(0)
-                # patches = patches + (patch,)
-                patch = np.zeros(patch.shape, dtype=np.uint8)
-                im2[i: i + patch_size, j:j + patch_size] = patch
-            else:
-                patch = np.zeros(patch.shape, dtype=np.uint8)
-                patch.fill(255)
-                im2[i: i + patch_size, j:j + patch_size] = patch
-    return im2
+                patch = to_tensor(im1.crop((j, i, j + patch_size, i + patch_size)))
+                patch = patch.float().unsqueeze(0)
+                patches = patches + (patch,)
+                # patch = np.zeros(patch.shape, dtype=np.uint8)
+                # im2[i: i + patch_size, j:j + patch_size] = patch
+            # else:
+                # patch = np.zeros(patch.shape, dtype=np.uint8)
+                # patch.fill(255)
+                # im2[i: i + patch_size, j:j + patch_size] = patch
+    return patches
 
 
 def judgeAllOnesOrAllZreos(patch):
