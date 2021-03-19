@@ -1,9 +1,9 @@
 import torch
 import numpy as np
 import cv2
-from task2.models.experimental import attempt_load
-from task2.utils.datasets import letterbox
-from task2.utils.general import non_max_suppression, scale_coords
+from models.experimental import attempt_load
+from utils.datasets import letterbox
+from utils.general import non_max_suppression, scale_coords
 
 
 def detect(im0, imgsz, model, device, conf_thres, iou_thres):
